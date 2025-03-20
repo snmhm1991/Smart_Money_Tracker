@@ -13,7 +13,7 @@
 ## 安装
 克隆项目
 ```bash
-git clone https://github.com/vnxfsc/Smart_Money_Tracker.git
+git clone [https://github.com/snmhm1991/Smart_Money_Tracker.git](https://github.com/snmhm1991/Smart_Money_Tracker.git)
 ```
 安装依赖
 ```bash
